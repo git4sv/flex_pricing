@@ -17,7 +17,7 @@
     }
             /*MEDIA QUERY FOR RESPONSIVE DESIGN*/
 
-    @media (max-width: 120px) {
+    @media (max-width: 1200px) {
       .pricing-container {
         flex-direction: column;
         height: 100%;
